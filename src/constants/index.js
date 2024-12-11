@@ -215,67 +215,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Permalist",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A to-do list web application with simple and attractive frontend and with the support of postgres database",
       tags: [
         {
-          name: "react",
+          name: "nodejs",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "postgresql",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "ejs",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Kunalp9/Permalist-Project",
     },
     {
-      name: "Job IT",
+      name: "Bank Data",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Fetching of Bank Details made easy by just entering the IFSC Code of the Bank",
       tags: [
         {
-          name: "react",
+          name: "nodejs",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "ejs",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "expressjs",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Kunalp9/Bank-Data",
     },
     {
-      name: "Trip Guide",
+      name: "Family Travel Tracker",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "An updated version of Travel-tracker which tracks the visited countries of all the family members.",
       tags: [
         {
-          name: "nextjs",
+          name: "nodejs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "postgresql",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "ejs",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Kunalp9/Family-Travel-Tracker",
     },
   ];
   
